@@ -1,6 +1,5 @@
 import random
 import re
-import time
 
 from selenium.webdriver.support.ui import Select
 import testing_magento.pages.locators.collections_page_loc as loc
